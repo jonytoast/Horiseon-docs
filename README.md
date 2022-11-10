@@ -2,6 +2,6 @@
 
 ## This is a website of me hosting a perfesonal site on github and learn how to make pull request, merges, and branches
 
-![alt text](assets/images/horiseon.png)
+(assets/images/horiseon-site.png)
 
 ## Site: https://jonytoast.github.io/Horiseon-docs/
